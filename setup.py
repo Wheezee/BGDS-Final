@@ -72,7 +72,7 @@ def main():
     print("Password: superadmin123")
 
     print("\n🚀 Starting development server...")
-    print("If you want to run the server again, just run the serve.bat, thank you beri mucho for using the ez setup xD")
+    print("\033[32mIf you want to run the server again, just run the serve.bat, thank you beri mucho for using the ez setup xD\033[0m")
     print("Press Ctrl+C to stop the server\n")
 
     try:
