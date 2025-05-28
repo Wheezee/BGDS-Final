@@ -49,7 +49,7 @@ def create_sqlite_database():
     if not os.path.exists(db_path):
         os.makedirs(os.path.dirname(db_path), exist_ok=True)
         open(db_path, 'a').close()
-        print(f"📁 SQLite database created at: {db_path}")
+        print(f"📁 SQLite database created at: {db_path} (Lezgo, good sign! We're cooking!")
     else:
         print(f"📁 SQLite database already exists at: {db_path} (nice!)")
 
@@ -98,7 +98,7 @@ def main():
     print("Email: superadmin@gmail.com")
     print("Password: superadmin123")
     print("\nYou may now run the development server using:")
-    print("👉  php artisan serve  (yep, just type that in the terminal xD)\n")
+    print("👉  php artisan serve  (yep, just type that in the terminal or run the serve.bat file xD)\n")
 
 if __name__ == "__main__":
     main()
