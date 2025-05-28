@@ -68,6 +68,8 @@ php artisan serve
 
 The application will be available at `http://127.0.0.1:8000`
 
+## Or just run the setup.py for a user-friendly installer that is easier to understand xD
+
 ## Default Super Admin Credentials
 
 - Email: superadmin@gmail.com
