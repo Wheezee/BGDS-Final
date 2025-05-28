@@ -44,7 +44,7 @@ def main():
         input("Press Enter to exit...")
         sys.exit(1)
 
-    print("\n✅ PHP and Composer found successfully! (Good sign, we cooking stuff up! xD")
+    print("\n✅ PHP and Composer found successfully! (Good sign, we cooking stuff up! xD)")
 
     if not run_command_stream("composer install --no-interaction", "Failed to install PHP dependencies... I dunno what happened..."):
         input("Press Enter to exit...")
