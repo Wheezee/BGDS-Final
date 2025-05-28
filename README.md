@@ -68,7 +68,9 @@ php artisan serve
 
 The application will be available at `http://127.0.0.1:8000`
 
-## Or just run the setup.py for a user-friendly installer that is easier to understand xD
+##
+- Or just run the setup.py for a user-friendly installer that is easier to understand xD
+##
 
 ## Default Super Admin Credentials
 
@@ -99,3 +101,5 @@ php artisan migrate:fresh --seed
 - Tokenizer PHP Extension
 - XML PHP Extension
 - And many other stuff... I dunno
+
+## Wanna make other's try it too? Use NGROK, run the ngrok-start-system.bat and share the link so others can try the system too xD (Cool stuff)
