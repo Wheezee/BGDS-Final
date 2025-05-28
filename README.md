@@ -92,15 +92,11 @@ php artisan migrate:fresh --seed
 ## System Requirements
 
 - PHP >= 8.2
-- BCMath PHP Extension
-- Ctype PHP Extension
-- JSON PHP Extension
-- Mbstring PHP Extension
-- OpenSSL PHP Extension
-- PDO PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
-- And many other stuff... I dunno
+- OS: any
+- Processor: anything that has a core
+- Memory: if you can open google chrome, that's all good
+- Graphics: if you can see this, then your graphics would probably work just fine
+- Audio: if your pc can go toot toot, then it should work, but tbh, there's no audio in this system, so yeah
 
 ## Wanna make other's try it too? Use NGROK, run the ngrok-start-system.bat and share the link so others can try the system too xD (Cool stuff)
 
