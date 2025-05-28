@@ -103,3 +103,5 @@ php artisan migrate:fresh --seed
 - And many other stuff... I dunno
 
 ## Wanna make other's try it too? Use NGROK, run the ngrok-start-system.bat and share the link so others can try the system too xD (Cool stuff)
+
+(Would private this after a year xD)
