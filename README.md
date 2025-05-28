@@ -30,6 +30,7 @@ composer install
 
 4. Configure your `.env` file:
 - If you want to use sqlite, it's already set up, if you want to use mysql, proceed with the db setup below
+- You can also replace the openrouter api key
 - Set your database connection details:
 ```
 DB_CONNECTION=mysql
@@ -96,9 +97,3 @@ php artisan migrate:fresh --seed
 - Tokenizer PHP Extension
 - XML PHP Extension
 - And many other stuff... I dunno
-
-
-
-
-
-Fk, I forgot to change the logo... I used the default, note to self, edit it in the future
